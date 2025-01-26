@@ -1,0 +1,5 @@
+<footer class="fixed-bottom bg-dark text-light p-4 d-flex justify-content-around">
+    <p class="fs-5 fw-semibold m-auto">Politica de Privacidad</p>
+    <p class="fs-5 fw-semibold m-auto">Terminos de uso</p>
+    <p class="fs-5 fw-semibold m-auto">Samuel Garcia Zorrilla</p>
+</footer>
